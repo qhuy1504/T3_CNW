@@ -1,0 +1,14 @@
+.Heading {
+    text-align: center;
+    width: 500px;
+    height: 350px;
+    background-color: #FFD078;
+    color: black;
+    margin: 0 auto;
+}
+
+hr {
+    padding: 1px;
+    width: 85%;
+    background-color: #757981;
+}
