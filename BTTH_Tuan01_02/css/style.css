@@ -22,12 +22,13 @@ hr {
     height: 230px;
     box-shadow: 0px 0px 4px 4px #b8babe;
     margin-right: 0 auto;
-    
 }
-p.left{
+
+p.left {
     text-align: left;
     padding-left: 0.3em;
 }
+
 .container {
     background-color: #FFD078;
     width: 800px;
@@ -36,16 +37,32 @@ p.left{
     border-radius: 5px;
     text-align: center;
     box-shadow: 0px 0px 5px 5px #b8babe;
-    
 }
-.txt1{
+
+.txt1 {
     text-align: left;
     padding-left: 0.3em;
 }
-.txt2{
+
+.txt2 {
     text-align: center;
 }
-.txt3{
+
+.txt3 {
     text-align: right;
     padding-right: 0.3em;
+}
+
+.bai4_a {
+    background-color: #FFFFFF;
+    width: 150px;
+    height: 150px;
+    box-shadow: 0px 0px 5px 5px #b8babe;
+    /* align-items: center; */
+    /* text-align: center; */
+    margin: 0 auto;
+    padding-bottom: 0.05em;
+    padding-left: 0.1em;
+    padding-top: 0.05em;
+    padding-right: 0.1em;
 }
