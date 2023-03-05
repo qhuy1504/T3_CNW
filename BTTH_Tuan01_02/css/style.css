@@ -60,17 +60,20 @@ p.left {
     box-shadow: 0px 0px 5px 5px #b8babe;
     margin: 0 auto;
 }
-.bai4_b{
+
+.bai4_b {
     background-color: #FFD078;
     box-shadow: 0px 0px 5px 5px #b8babe;
     width: 250px;
     height: 550px;
     margin: 0 auto;
 }
-.bai4_b li{
+
+.bai4_b li {
     margin: 0 auto;
 }
-.bai5{
+
+.bai5 {
     background-color: #ffffff;
     box-shadow: 0px 0px 5px 5px #b8babe;
     width: 400px;
@@ -78,7 +81,8 @@ p.left {
     margin: 0 auto;
     padding-left: 0.3em;
 }
-.bai5_b{
+
+.bai5_b {
     background-color: #ffffff;
     box-shadow: 0px 0px 5px 5px #b8babe;
     width: 420px;
@@ -86,6 +90,7 @@ p.left {
     margin: 0 auto;
     padding-left: 0.3em;
 }
-.bai5_b a{
+
+.bai5_b a {
     color: blue
 }
