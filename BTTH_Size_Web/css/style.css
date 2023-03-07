@@ -1,0 +1,66 @@
+#menu-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#left {
+    display: flex;
+    width: 350px;
+    justify-content: space-around;
+}
+
+#right {
+    display: flex;
+    width: 500px;
+    justify-content: space-around;
+}
+
+#center {
+    margin-top: 10px;
+}
+
+.leftitem {
+    color: #686E77;
+}
+
+.rightitem {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+input {
+    height: 35px;
+    width: 200px;
+}
+
+#menu2 {
+    background: url(/T3_CNW/BTTH_Size_Web/img/2.png);
+    height: 390px;
+    width: 1449px;
+    position: relative;
+}
+
+.mn2 {
+    position: relative;
+    top: 120px;
+    left: 141px;
+}
+
+#menu-container2 {
+    margin-top: 65px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#left2 {
+    display: flex;
+    width: 350px;
+    justify-content: space-around;
+}
+
+#right2 {
+    display: flex;
+    width: 500px;
+    justify-content: space-around;
+}
