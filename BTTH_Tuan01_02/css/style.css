@@ -318,14 +318,14 @@ btn-submit {
     box-shadow: 0px 0px 5px 5px #b8babe;
 }
 
-.sm {
+.send-form {
     display: inline-block;
     position: absolute;
     bottom: 0;
     left: 40%;
 }
 
-.sm-1 {
+.clear-from {
     display: inline-block;
     position: absolute;
     bottom: 0;
